@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.log
+/classifyRelations/results/
+/classifyRelations/tempData/
+/myRNNC/tempdata/
+/myRNNC/results/
+*.mat
